@@ -1,0 +1,2 @@
+customers(id, name)
+orders(id, customer_id, amount, date)
